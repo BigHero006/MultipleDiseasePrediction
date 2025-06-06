@@ -45,7 +45,7 @@ multiple-disease-prediction/
 
 1. **Clone the repository**:
 
-git clone https://github.com/your-username/multiple-disease-prediction.gitcd multiple-disease-prediction
+git clone https://github.com/your-username/multiple-disease-prediction.gitcd multiple-disease-prediction](https://github.com/BigHero006/MultipleDiseasePrediction
 
 2. Open a Notebook in Google Colab:
 
